@@ -19,10 +19,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibas07&show_icons=true&locale=en&layout=compact" alt="bibas07" height=200 /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibas07&show_icons=true&locale=en&layout=compact" alt="bibas07" height=200 /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibas07&" alt="bibas07" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bibas07&" alt="bibas07" /></p>
-
-<p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibas07&theme=gruvbox" width="800"> </p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bibas07&theme=gruvbox" width="800"> </p>
 </div>
