@@ -21,7 +21,6 @@
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bibas07&show_icons=true&locale=en&layout=compact" alt="bibas07" height=200 /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bibas07&show_icons=true&locale=en" alt="bibas07" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bibas07&" alt="bibas07" /></p>
 
