@@ -9,3 +9,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bibas07&show_icons=true&locale=en" alt="bibas07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bibas07&" alt="bibas07" /></p>
+
+ <hr>
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manandhar01&theme=gruvbox" width="800">
+    <hr>
